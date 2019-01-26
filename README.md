@@ -5,7 +5,7 @@ A very small issue tracking app built using Angular 7 and Express 4 along with M
 - Node.js
 - Express.js (backend web framework)
 - Angular 7 (frontend web framework)
-- Angular Material (UI componenets)
+- Angular Material (UI components)
 - MongoDB (document database)
 
 ### Usage
